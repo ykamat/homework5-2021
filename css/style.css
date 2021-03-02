@@ -175,7 +175,7 @@ header{
     padding: 30px 0px;
     /*Your code here:*/
     text-align: right;
-    text-justify: center;
+    align-self: center;
   }
 
   /*Req 11*/
